@@ -5,14 +5,10 @@ Every program needs a README.md
 
 This is written in markdown. Read about markdown here: [markdowncheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
-## Your name:
-Replace line 8 with your name
+## Your name: Juhyun Park
 
-## Your student number:
-Replace line 11 with your student number
+## Your student number: A01397842
 
-## Your GitHub name:
-Replace line 14 with your GitHub name
+## Your GitHub name: juhyun-park-bcit
 
-## Any important comments you'd like to make about your work:
-Replace lines 17+ with any comments you have
+## Any important comments you'd like to make about your work: Do my best so that I can't blame myself for anything.
